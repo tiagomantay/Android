@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_989124cdda32e4a7bcee1359adc7a41b67d32077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_c1bfefea5086cf66b26e2585d1a9e8ee92c4ae5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_a990ff5a7770b0a06a909bc3265a3d3498bddce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c873cab0bd28e64ec542e8a630ff906640efa5f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_1cf4a1a40bd3f1036c879acf4947b985998c426b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1e166e4789100776fc51d2c75fc5da67677ed089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_f3ec870d6f15ce2e28a3ec3590f43dded6ca9184.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_b15f9186aabd4a7168f4bdc349c8566c6d8c20a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_1fa5ed642a92ad34f327fb2464ba6f56146d8602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5cc40f989a20ca1a128d8dcb9bdb56602d2dec89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_dc875291ba488a9a37469a52ee1d2750f0d776d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_0a158e24dafebcdd975e7b695c42505b95fa24f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d56807a8b6b9ad13bcc61930037c7d0bfc050d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_7312b966b2a6bc25b7df08eed5d3f9c9c20311e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_394cba4da26ba5229e05476b6de94b688185fc91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_c4eeb85bda32918876dfcf49a7db448322163bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_b8804725b20bc3284ed2e859d005740a4170249f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_702869c6688470ff624e96cde4370cf2de3b2de0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c507d2821672aef2d88a3e5cd7bd25bf993f1d6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8a459e826dbaf2ce1664aa3160c05c225b163711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_5a079470289eaff5fe36db38009ae00521f3e7fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_88e8c7974a213a608db375bc2c3b684614a96c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_90fd32fec0961da5dcdfd477bc27aab85667a497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bada/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_748a627bcc8c38c265329013580ea1284442fd46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Volumes/D/Android_Dev/git/Android/simple list view/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_3a87de99932856ba3e404ab715feb056525eb1be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_6d2d4ec77d10510dd049838b4e8bb05d3905734b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d3a2d7a8cd936a093137d5b2d0d42049ad88c198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b5f0cf894ba832fb3af87617cea3e234cfefec20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Volumes/D/Android Dev/android/TestListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_d7bd66e032ccac3a7ac27466d790ece1eb94f94d.jar" />
+    </item>
+
+</items>
