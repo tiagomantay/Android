@@ -46,12 +46,13 @@ public class MainActivity extends Activity {
         lista.setAdapter(adapter);
 
         //método que gera o toast na tela
-        lista.setOnItemClickListener(new AdapterView.OnItemClickListener(){
+        lista.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 
             @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l){
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
 
-                Toast.makeText(getApplicationContext(),"Posição: " +(i+1)+"  Motivo:  "+Lista_aL.get(i).toString(),Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "Posição: " + (i + 1) + "  Motivo:  " +
+                        Lista_aL.get(i).toString(), Toast.LENGTH_SHORT).show();
 
             }
         });
@@ -69,7 +70,8 @@ public class MainActivity extends Activity {
             inputStream = assetManager.open("arquivoLista.txt");
             InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
             BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
-            Toast.makeText(getApplicationContext(),"Arquivo importado com sucesso",Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(), "Arquivo importado com sucesso",
+                    Toast.LENGTH_SHORT).show();
             while ((temp_string = bufferedReader.readLine()) != null) {
                 Lista_aL.add(temp_string);
             }
@@ -77,7 +79,8 @@ public class MainActivity extends Activity {
             inputStream.close();
 
         } catch (IOException e) {
-            Toast.makeText(getApplicationContext(),"Erro na importação do arquivo",Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(), "Erro na importação do arquivo",
+                    Toast.LENGTH_SHORT).show();
             e.printStackTrace();
         }
 
@@ -108,4 +111,3 @@ public class MainActivity extends Activity {
         super.onDestroy();
     }
 }
-
